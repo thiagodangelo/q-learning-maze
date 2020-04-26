@@ -1,0 +1,6 @@
+# Editor folder and files
+.vscode
+
+# Python
+__pycache__
+*.pyc
